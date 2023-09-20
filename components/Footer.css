@@ -1,0 +1,15 @@
+.list {
+  display: flex;
+  gap: 17px;
+  background: black;
+  padding: 17px;
+  height: 16vh;
+}
+
+strong {
+  color: rgb(255, 255, 255);
+}
+
+.office {
+  color: white;
+}
